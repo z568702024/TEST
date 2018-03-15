@@ -1,0 +1,119 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+html body
+{
+	background-color: #262626;
+	margin: auto;
+}
+hr
+{
+	 border-color: rgba(59,59,59,0.8);
+	 margin-top: 10px;
+}
+.body
+{
+	text-align: center;
+	width: 80%;
+	margin: auto;
+}
+.section1
+{
+	height: 93px;
+}
+.section1 .p1
+{
+	display: inline-block;
+	position: relative;
+	float: left;
+	font-size: 28px;
+	color: #a5fcff;
+	/*text-shadow:2px 2px 3px #f5fcff;*/
+}
+.section1 .p2
+{
+	display: inline-block;
+	position: relative;
+	top: 2px;
+	left: -1px;
+	float: right;
+	color: #a5adaf;
+	font-size: 15px;
+	font-weight: bold;
+}
+.section2
+{
+	height: 110px;
+	display: inline-block;
+	font-size: 30px;
+	color: #f3fcff;
+	line-height: 55px;
+}
+.section3
+{
+	height: 600px;
+}
+.section3 ul
+{
+	list-style: none;
+	height: 500px;
+	width: 90%;
+	margin:auto;
+	position: relative;
+	top: 8%;
+}
+.section3 ul li:nth-child(1)
+{
+	border:0.9px dotted rgba(96,96,96,0.5);
+	height: 42%;
+	width: 49%;
+	margin-top: 20px;
+	float: left;
+	cursor: pointer;
+}
+.section3 ul li:nth-child(2)
+{
+	border:0.9px dotted rgba(96,96,96,0.5);
+	height: 42%;
+	width: 49%;
+	margin-top: 20px;
+	float: left;
+	cursor: pointer;
+}
+.section3 ul li:nth-child(3)
+{
+	border:0.9px dotted rgba(96,96,96,0.5);
+	height: 42%;
+	width: 49%;
+	margin-top: 40px;
+	float: left;
+	cursor: pointer;
+}
+.section3 ul li:nth-child(4)
+{
+	border:0.9px dotted rgba(96,96,96,0.5);
+	height: 42%;
+	width: 49%;
+	margin-top: 40px;
+	float: left;
+	cursor: pointer;
+}
+.section3 ul li img
+{
+	height: 210px;
+	width: 100%;
+}
+.section4
+{
+	height: 60px;
+}
+.section4 p
+{
+	position: relative;
+	top: 65%;
+	margin-top: -3px;
+	color: #a5adaf;
+	/*text-shadow: 1px 1px 2px #f5fcff;*/
+}

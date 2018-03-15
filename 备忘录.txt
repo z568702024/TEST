@@ -1,0 +1,7 @@
+introduction页面背景图片大小333*239
+每张页面宽缩小100px，高缩小50px
+
+introduction页面header大小667*959
+
+index图片大小673*212
+每张336*106
